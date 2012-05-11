@@ -37,16 +37,6 @@ small {
   font-size: 2rem;
   text-shadow: 0 1px 0 #fff; }
 
-.download {
-  padding-left: 15px;
-  padding-left: 1.5rem; }
-
-.pro-tip {
-  display: block;
-  padding: 20px;
-  padding: 2rem;
-  text-shadow: 0 1px 0 #fff; }
-
 pre {
   font-size: 18px;
   font-size: 1.8rem; }
@@ -81,25 +71,6 @@ code {
   padding: .5rem;
   opacity: .9; }
 
-#instructions {
-  position: fixed;
-  top: 25px;
-  left: 40px;
-  background: #fff;
-  border: solid 3px #959db5;
-  padding: 5px 10px;
-  text-transform: uppercase;
-  width: 180px;
-  border-radius: 10px;
-  font-size: 14px;
-  font-weight: bold;
-  z-index: 99;
-  color: #222438; }
-
-#powered {
-  font-weight: bold;
-  padding-bottom: 20px; }
-
 .nav-button {
   padding: 10px;
   padding: 1rem;
@@ -115,11 +86,6 @@ code {
 .current, a.nav-button:hover {
   color: #fff; }
 
-#resize-graphic {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  opacity: .6; }
 
 /*----------------------------------------  SLIDES  */
 .slide {
